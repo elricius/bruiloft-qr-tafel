@@ -24,11 +24,19 @@
       font-size: 1.8em;
     }
     input, button {
-      padding: 12px;
-      margin-top: 10px;
-      font-size: 1em;
+      display: block;
       width: 90%;
       max-width: 400px;
+      margin: 10px auto;
+      padding: 12px;
+      font-size: 1em;
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+
+    button {
+      background-color: rgb(182, 109, 202);
+
     }
     .result {
       margin-top: 20px;
@@ -54,21 +62,24 @@
       });
 
     function zoekGast() {
-      const input = document.getElementById('nameInput').value.trim().toLowerCase();
-      const gevonden = gasten.find(g => (g.Voornaam + " " + g.Achternaam).toLowerCase() === input);
+	  const input = document.getElementById('nameInput').value.trim().toLowerCase();
+	  const gevonden = gasten.find(g => (`${g.Voornaam} ${g.Achternaam}`.trim()).toLowerCase() === input);
 
-      const resultaat = document.getElementById('result');
-      if (gevonden) {
-        const gezin = gasten.filter(g => g.GezinID === gevonden.GezinID);
-        const namen = gezin.map(p => `${p.Voornaam} ${p.Achternaam}`).join(', ');
-        resultaat.innerHTML = `
-          🎉 Je zit aan tafel <strong>${gevonden.Tafel}</strong><br/>
-          Samen met: ${namen}
-        `;
-      } else {
-        resultaat.innerHTML = "❌ Naam niet gevonden. Probeer het opnieuw.";
-      }
-    }
+	  const resultaat = document.getElementById('result');
+	  if (gevonden) {
+		const tafel = gevonden.Tafel;
+		const tafelgenoten = gasten.filter(g => g.Tafel === tafel);
+
+		const namen = tafelgenoten.map(p => `${p.Voornaam} ${p.Achternaam}`.trim()).join(', ');
+		resultaat.innerHTML = `
+		  🎉 Je zit aan tafel <strong>${tafel}</strong><br/>
+		  Samen met: ${namen}
+		`;
+		  } else {
+			resultaat.innerHTML = "❌ Naam niet gevonden. Probeer het opnieuw.";
+		  }
+	}
+
   </script>
 </body>
 </html>
