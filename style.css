@@ -7,9 +7,9 @@ body {
 }
 
 .simulator {
-  max-width: 490px;
+  max-width: 390px;
   margin: 0 auto;
-  height: 944px;
+  height: 844px;
   border: 10px solid #aaa;
   border-radius: 15px;
   padding: 15px;
