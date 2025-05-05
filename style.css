@@ -8,25 +8,26 @@ body {
 
 
 .simulator {
-  max-width: 390px;
+  max-width: 490px;
   margin: 0 auto;
-  height: 844px;
+  height: 944px; /* vaste hoogte voor desktop */
   border: 10px solid #aaa;
   border-radius: 15px;
   padding: 15px;
-  background: url('achtergrond.png') no-repeat center center;
+  background: url('achtergrond.jpg') no-repeat center center;
   background-size: cover;
 }
 
 @media screen and (max-width: 600px) {
   .simulator {
     max-width: 100%;
-    height: auto;
+    height: auto; /* 🔁 zorgt dat hij zich aanpast aan de inhoud */
+    min-height: 100vh; /* zorgt dat hij wel het scherm vult als er weinig content is */
     border: none;
     border-radius: 0;
     padding: 0;
-	background: url('achtergrond.png') no-repeat center center;
-   background-size: cover;
+    background: url('achtergrond.jpg') no-repeat center center;
+    background-size: cover;
   }
 }
 
