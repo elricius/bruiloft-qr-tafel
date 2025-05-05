@@ -15,7 +15,7 @@ body {
   border-radius: 15px;
   padding: 15px;
   background: url('achtergrond.png') no-repeat center center;
-	background-size: cover;
+  background-size: cover;
 }
 
 @media screen and (max-width: 600px) {
@@ -25,6 +25,8 @@ body {
     border: none;
     border-radius: 0;
     padding: 0;
+	background: url('achtergrond.png') no-repeat center center;
+   background-size: cover;
   }
 }
 
