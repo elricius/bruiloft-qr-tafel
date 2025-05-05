@@ -6,6 +6,7 @@ body {
   padding: 2rem;
 }
 
+
 .simulator {
   max-width: 390px;
   margin: 0 auto;
@@ -13,6 +14,8 @@ body {
   border: 10px solid #aaa;
   border-radius: 15px;
   padding: 15px;
+  background: url('achtergrond.png') no-repeat center center;
+	background-size: cover;
 }
 
 @media screen and (max-width: 600px) {
