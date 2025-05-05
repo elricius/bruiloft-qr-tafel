@@ -152,18 +152,21 @@
 
 	  const resultaat = document.getElementById('result');
 	  if (gevonden) {
-		const tafel = gevonden.Tafel;
-		const tafelgenoten = gasten.filter(g => g.Tafel === tafel);
+      const tafel = gevonden.Tafel;
+      const tafelgenoten = gasten.filter(g => g.Tafel === tafel);
+      const namen = tafelgenoten.map(p => `${p.Voornaam} ${p.Achternaam}`.trim()).join(', ');
 
-		const namen = tafelgenoten.map(p => `${p.Voornaam} ${p.Achternaam}`.trim()).join(', ');
-		resultaat.innerHTML = `
-		  🎉 Je zit aan tafel <strong>${tafel}</strong><br/><br/>
-		  <strong>Samen met:</strong><br/>
-      ${namen}
-		`;
-		  } else {
-			resultaat.innerHTML = "❌ Naam niet gevonden. Probeer het opnieuw.";
-		  }
+      const t = vertalingen[huidigeTaal]; // haal vertaling op
+
+      resultaat.innerHTML = `
+        ${t.zitAanTafel} <strong>${tafel}</strong><br/><br/>
+        <strong>${t.samenMet}</strong><br/>
+        ${namen}
+      `;
+    } else {
+      resultaat.innerHTML = vertalingen[huidigeTaal].naamNietGevonden;
+    }
+
 	}
 
   </script>
