@@ -14,7 +14,7 @@ body {
   border: 10px solid #aaa;
   border-radius: 15px;
   padding: 15px;
-  background: url('achtergrond.jpg') no-repeat center center;
+  background: url('achtergrond.png') no-repeat center center;
   background-size: cover;
 }
 
@@ -26,7 +26,7 @@ body {
     border: none;
     border-radius: 0;
     padding: 0;
-    background: url('achtergrond.jpg') no-repeat center center;
+    background: url('achtergrond.png') no-repeat center center;
     background-size: cover;
   }
 }
