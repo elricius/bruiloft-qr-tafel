@@ -4,6 +4,8 @@ body {
   color: #333;
   text-align: center;
   padding: 2rem;
+  background: url('achtergrond.png') no-repeat center center;
+  background-size: cover;
 }
 
 
@@ -14,22 +16,18 @@ body {
   border: 10px solid #aaa;
   border-radius: 15px;
   padding: 15px;
-  background: url('achtergrond.png') no-repeat center center;
-  background-size: cover;
+  
 }
 
 @media screen and (max-width: 600px) {
   .simulator {
     max-width: 100%;
-    height: auto; /* 🔁 zorgt dat hij zich aanpast aan de inhoud */
-    min-height: 100vh; /* zorgt dat hij wel het scherm vult als er weinig content is */
     border: none;
     border-radius: 0;
     padding: 0;
-    background: url('achtergrond.png') no-repeat center center;
-    background-size: cover;
   }
 }
+
 
 h1 {
   font-size: 1.8em;
