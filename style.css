@@ -8,7 +8,7 @@ body {
 
 
 .simulator {
-  max-width: 490px;
+  width: 490px;
   margin: 0 auto;
   height: 944px; /* vaste hoogte voor desktop */
   border: 10px solid #aaa;
