@@ -106,28 +106,28 @@
   },
   {
     "Voornaam":"Shaam",
-    "Achternaam":null,
+    "Achternaam":"Pargas",
     "Categorie":"Volwassene",
     "GezinID":"Natasa",
     "Tafel":2
   },
   {
     "Voornaam":"Shoesma",
-    "Achternaam":null,
+    "Achternaam":"Pargas",
     "Categorie":"Volwassene",
     "GezinID":"Natasa",
     "Tafel":2
   },
   {
     "Voornaam":"Mama Mina",
-    "Achternaam":null,
+    "Achternaam":"Pargas",
     "Categorie":"Volwassene",
     "GezinID":"Natasa",
     "Tafel":2
   },
   {
     "Voornaam":"Jay-Shaan",
-    "Achternaam":null,
+    "Achternaam":"Pargas",
     "Categorie":"Kind",
     "GezinID":"Natasa",
     "Tafel":2
@@ -330,7 +330,7 @@
   },
   {
     "Voornaam":"Kaya",
-    "Achternaam":null,
+    "Achternaam":"van Bree",
     "Categorie":"Volwassene",
     "GezinID":"Kaya",
     "Tafel":5
@@ -403,6 +403,34 @@
     "Achternaam":null,
     "Categorie":"Kind",
     "GezinID":"Lipi",
+    "Tafel":6
+  },
+  {
+    "Voornaam":"Marcel",
+    "Achternaam":"Kleindijk",
+    "Categorie":"Volwassene",
+    "GezinID":"Marcel",
+    "Tafel":6
+  },
+  {
+    "Voornaam":"Nancy",
+    "Achternaam":"Simjouw",
+    "Categorie":"Volwassene",
+    "GezinID":"Marcel",
+    "Tafel":6
+  },
+  {
+    "Voornaam":"Sterre",
+    "Achternaam":null,
+    "Categorie":"Kind",
+    "GezinID":"Sterre",
+    "Tafel":6
+  },
+  {
+    "Voornaam":"Kyano",
+    "Achternaam":null,
+    "Categorie":"Kind",
+    "GezinID":"Kyano",
     "Tafel":6
   },
   {
@@ -791,39 +819,11 @@
     "Tafel":13
   },
   {
-    "Voornaam":"Marcel",
-    "Achternaam":"Kleindijk",
-    "Categorie":"Volwassene",
-    "GezinID":"Marcel",
-    "Tafel":6
-  },
-  {
-    "Voornaam":"Nancy",
-    "Achternaam":"Simjouw",
-    "Categorie":"Volwassene",
-    "GezinID":"Marcel",
-    "Tafel":6
-  },
-  {
     "Voornaam":"Tygo",
     "Achternaam":null,
     "Categorie":"Kind",
     "GezinID":"Tygo",
     "Tafel":13
-  },
-  {
-    "Voornaam":"Sterre",
-    "Achternaam":null,
-    "Categorie":"Kind",
-    "GezinID":"Sterre",
-    "Tafel":6
-  },
-  {
-    "Voornaam":"Kyano",
-    "Achternaam":null,
-    "Categorie":"Kind",
-    "GezinID":"Kyano",
-    "Tafel":6
   },
   {
     "Voornaam":"King",
