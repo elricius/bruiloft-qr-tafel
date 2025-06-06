@@ -386,21 +386,21 @@
   },
   {
     "Voornaam":"Erwin",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Erwin",
     "Tafel":6
   },
   {
     "Voornaam":"Sabrina",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Erwin",
     "Tafel":6
   },
   {
     "Voornaam":"Lipi",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Lipi",
     "Tafel":6
@@ -421,14 +421,14 @@
   },
   {
     "Voornaam":"Sterre",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Sterre",
     "Tafel":6
   },
   {
     "Voornaam":"Kyano",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Kyano",
     "Tafel":6
@@ -463,28 +463,28 @@
   },
   {
     "Voornaam":"Helma",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Helma",
     "Tafel":7
   },
   {
     "Voornaam":"Frans",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Frans",
     "Tafel":7
   },
   {
     "Voornaam":"Gert-Jan",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Gert-jan",
     "Tafel":7
   },
   {
     "Voornaam":"Mamina",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Gert-jan",
     "Tafel":7
@@ -736,56 +736,56 @@
   },
   {
     "Voornaam":"Dushan",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Naomi",
     "Tafel":12
   },
   {
     "Voornaam":"Hendie",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Chantal",
     "Tafel":12
   },
   {
     "Voornaam":"Naomi",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Naomi",
     "Tafel":12
   },
   {
     "Voornaam":"Chantal",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Chantal",
     "Tafel":12
   },
   {
     "Voornaam":"Jonas (Chantal)",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Jonas (Chantal)",
     "Tafel":12
   },
   {
     "Voornaam":"Jhaël (Chantal)",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Jhaël (Chantal)",
     "Tafel":12
   },
   {
     "Voornaam":"Reyson",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Reyson",
     "Tafel":12
   },
   {
     "Voornaam":"Shaqur",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Naomi",
     "Tafel":12
@@ -806,105 +806,105 @@
   },
   {
     "Voornaam":"Sharon",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sharon",
     "Tafel":13
   },
   {
     "Voornaam":"Vince",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sharon",
     "Tafel":13
   },
   {
     "Voornaam":"Tygo",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Tygo",
     "Tafel":13
   },
   {
     "Voornaam":"King",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"King",
     "Tafel":13
   },
   {
     "Voornaam":"Troyt",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Troyt",
     "Tafel":13
   },
   {
     "Voornaam":"Erdal",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sevinc",
     "Tafel":14
   },
   {
     "Voornaam":"Tahsin",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Stephanie",
     "Tafel":14
   },
   {
     "Voornaam":"Yetter",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Yetter",
     "Tafel":14
   },
   {
     "Voornaam":"Adem",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Yetter",
     "Tafel":14
   },
   {
     "Voornaam":"Sevinc",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sevinc",
     "Tafel":14
   },
   {
     "Voornaam":"Stephanie",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Stephanie",
     "Tafel":14
   },
   {
     "Voornaam":"Ediz (Stephanie)",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Ediz (Stephanie)",
     "Tafel":14
   },
   {
     "Voornaam":"Destan (Stephan)",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Destan (Stephan)",
     "Tafel":14
   },
   {
     "Voornaam":"Emir",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Emir",
     "Tafel":14
   },
   {
     "Voornaam":"Nisa",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Nisa",
     "Tafel":14
@@ -932,77 +932,77 @@
   },
   {
     "Voornaam":"Johnny",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Myrthe",
     "Tafel":15
   },
   {
     "Voornaam":"Sanne",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sanne",
     "Tafel":15
   },
   {
     "Voornaam":"Laura",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Laura",
     "Tafel":15
   },
   {
     "Voornaam":"Andries",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Sanne",
     "Tafel":15
   },
   {
     "Voornaam":"Stephane",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Gonneke",
     "Tafel":16
   },
   {
     "Voornaam":"Gonneke",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Gonneke",
     "Tafel":16
   },
   {
     "Voornaam":"Jennefer",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Jennefer",
     "Tafel":16
   },
   {
     "Voornaam":"Ilse",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Ilse",
     "Tafel":16
   },
   {
     "Voornaam":"Jules",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Jules",
     "Tafel":16
   },
   {
     "Voornaam":"Ryan",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Jennefer",
     "Tafel":16
   },
   {
     "Voornaam":"Lizzy",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Kind",
     "GezinID":"Jennefer",
     "Tafel":16
@@ -1023,7 +1023,7 @@
   },
   {
     "Voornaam":"Mandy",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":"Mandy2",
     "Tafel":17
@@ -1065,56 +1065,56 @@
   },
   {
     "Voornaam":"DJ",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"DJ",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"videograaf",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"videograaf",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"videograaf",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"Band",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"Band",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
   },
   {
     "Voornaam":"Band",
-    "Achternaam":null,
+    "Achternaam":" ",
     "Categorie":"Volwassene",
     "GezinID":null,
     "Tafel":18
