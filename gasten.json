@@ -795,14 +795,14 @@
     "Achternaam":"Kleindijk",
     "Categorie":"Volwassene",
     "GezinID":"Marcel",
-    "Tafel":13
+    "Tafel":6
   },
   {
     "Voornaam":"Nancy",
     "Achternaam":"Simjouw",
     "Categorie":"Volwassene",
     "GezinID":"Marcel",
-    "Tafel":13
+    "Tafel":6
   },
   {
     "Voornaam":"Tygo",
@@ -816,14 +816,14 @@
     "Achternaam":null,
     "Categorie":"Kind",
     "GezinID":"Sterre",
-    "Tafel":13
+    "Tafel":6
   },
   {
     "Voornaam":"Kyano",
     "Achternaam":null,
     "Categorie":"Kind",
     "GezinID":"Kyano",
-    "Tafel":13
+    "Tafel":6
   },
   {
     "Voornaam":"King",
